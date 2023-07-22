@@ -8,3 +8,9 @@ The core features of the iDragon game include:
 5. Visual and Audio Effects: The iDragon game employs captivating visuals and immersive audio effects to enhance the overall ambiance and engagement of the gameplay.
 The development of the iDragon game primarily relied on JavaScript, a versatile and widely supported programming language for web development. JavaScript libraries and frameworks, such as Phaser, were utilized to streamline game development tasks, including rendering graphics, handling user input, and managing game logic.
 The iDragon game serves as an example of how JavaScript can be leveraged to create interactive and engaging web-based games. It demonstrates the potential of JavaScript in providing a platform-independent gaming experience accessible through web browsers. The success of the iDragon game lies in its ability to combine captivating gameplay elements with the power and versatility of JavaScript, offering players a memorable gaming experience.
+
+![image](https://github.com/jaideepdnaik/iDragon-Javascript-Game/assets/77848433/5bbdc09c-93df-4549-acdc-3d3c2c50c5f4)
+
+![image](https://github.com/jaideepdnaik/iDragon-Javascript-Game/assets/77848433/70de1f10-c4e7-4c9e-8487-3617eaa50154)
+
+
